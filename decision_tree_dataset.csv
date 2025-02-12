@@ -1,0 +1,1001 @@
+Age,Income,Education,Employment_Status,Marital_Status,Credit_Score,Loan_Approval
+56,54674,Bachelors,Self-Employed,Divorced,427,Denied
+69,55854,Masters,Self-Employed,Married,751,Approved
+46,66271,PhD,Employed,Single,668,Denied
+32,93688,High School,Employed,Divorced,342,Approved
+60,58518,PhD,Self-Employed,Widowed,718,Approved
+25,30267,Masters,Self-Employed,Married,787,Approved
+38,110825,High School,Employed,Single,377,Approved
+56,21062,Masters,Employed,Married,569,Denied
+36,70448,Masters,Employed,Divorced,614,Denied
+40,115462,Bachelors,Unemployed,Divorced,467,Denied
+28,26229,High School,Self-Employed,Widowed,638,Denied
+28,76793,Bachelors,Unemployed,Single,492,Approved
+41,67915,High School,Self-Employed,Single,752,Denied
+53,24632,Masters,Self-Employed,Widowed,582,Approved
+57,23596,Masters,Self-Employed,Widowed,635,Denied
+41,26168,PhD,Self-Employed,Single,689,Denied
+20,27561,High School,Self-Employed,Married,824,Denied
+39,93794,Bachelors,Self-Employed,Married,539,Approved
+19,102152,PhD,Self-Employed,Widowed,782,Approved
+41,46734,PhD,Unemployed,Married,757,Approved
+61,26371,PhD,Employed,Single,388,Approved
+47,46069,Bachelors,Employed,Divorced,394,Denied
+55,99905,PhD,Unemployed,Divorced,751,Approved
+19,32910,Bachelors,Unemployed,Married,727,Approved
+38,93479,PhD,Unemployed,Widowed,450,Denied
+50,97735,Bachelors,Unemployed,Widowed,813,Denied
+29,101264,Masters,Self-Employed,Widowed,675,Approved
+39,43275,Masters,Employed,Widowed,321,Denied
+61,92274,Masters,Self-Employed,Widowed,612,Approved
+42,101449,Masters,Employed,Married,818,Denied
+66,80004,Masters,Employed,Divorced,505,Approved
+44,82981,PhD,Unemployed,Divorced,674,Approved
+59,104659,PhD,Self-Employed,Married,750,Approved
+45,74553,PhD,Unemployed,Widowed,478,Approved
+33,68447,Bachelors,Self-Employed,Married,509,Approved
+32,54529,Bachelors,Employed,Divorced,799,Denied
+64,95703,Bachelors,Unemployed,Single,763,Approved
+68,96090,Bachelors,Unemployed,Married,423,Approved
+61,37260,Masters,Employed,Widowed,412,Approved
+69,23812,Masters,Employed,Divorced,311,Approved
+20,48024,Masters,Employed,Divorced,425,Approved
+54,78656,High School,Unemployed,Divorced,630,Denied
+68,47285,PhD,Self-Employed,Divorced,582,Denied
+24,112436,Bachelors,Unemployed,Widowed,439,Approved
+38,21605,Bachelors,Self-Employed,Single,700,Denied
+26,91158,Masters,Unemployed,Divorced,396,Approved
+56,92303,Bachelors,Unemployed,Married,816,Denied
+35,47139,Bachelors,Employed,Single,368,Denied
+21,97149,PhD,Self-Employed,Divorced,417,Approved
+42,76138,Masters,Unemployed,Single,358,Denied
+31,96125,PhD,Unemployed,Married,332,Denied
+67,33918,High School,Employed,Divorced,617,Approved
+26,105655,High School,Employed,Married,349,Approved
+43,47446,High School,Self-Employed,Widowed,788,Denied
+19,33046,Masters,Unemployed,Divorced,318,Denied
+37,44818,Bachelors,Self-Employed,Divorced,496,Denied
+45,24324,Masters,Unemployed,Divorced,749,Approved
+64,96323,Masters,Self-Employed,Divorced,751,Denied
+24,29111,Bachelors,Employed,Widowed,588,Denied
+61,58110,PhD,Unemployed,Divorced,440,Denied
+25,36389,High School,Self-Employed,Single,383,Approved
+64,61427,PhD,Employed,Divorced,690,Approved
+52,99579,High School,Employed,Widowed,514,Approved
+31,48746,Masters,Self-Employed,Divorced,825,Approved
+34,107886,High School,Unemployed,Single,514,Denied
+53,20117,Masters,Unemployed,Widowed,702,Approved
+67,104471,PhD,Employed,Widowed,427,Denied
+57,33234,Masters,Unemployed,Single,776,Denied
+21,73441,PhD,Unemployed,Single,703,Denied
+19,20846,Bachelors,Unemployed,Single,328,Denied
+23,30954,Bachelors,Employed,Single,637,Approved
+59,99239,Bachelors,Self-Employed,Single,660,Approved
+21,66514,Masters,Unemployed,Widowed,691,Approved
+46,108236,Bachelors,Employed,Widowed,517,Approved
+35,117579,High School,Employed,Divorced,501,Approved
+43,26469,PhD,Self-Employed,Divorced,316,Denied
+61,50105,PhD,Unemployed,Married,621,Approved
+51,62101,High School,Unemployed,Divorced,817,Approved
+27,84323,Masters,Self-Employed,Divorced,624,Approved
+53,111922,Masters,Self-Employed,Single,711,Approved
+31,78067,PhD,Employed,Single,617,Denied
+48,69376,Bachelors,Employed,Divorced,381,Denied
+65,65587,Masters,Self-Employed,Married,773,Denied
+32,56976,Masters,Unemployed,Single,767,Denied
+25,87584,High School,Employed,Divorced,724,Denied
+31,98477,High School,Employed,Divorced,503,Approved
+40,62533,Bachelors,Unemployed,Widowed,686,Denied
+57,21828,Masters,Employed,Married,397,Denied
+38,21917,Masters,Unemployed,Widowed,644,Denied
+33,40618,High School,Unemployed,Married,507,Approved
+62,52254,Masters,Unemployed,Single,813,Approved
+35,67362,PhD,Self-Employed,Married,465,Denied
+64,40128,High School,Self-Employed,Divorced,321,Approved
+41,79383,Bachelors,Self-Employed,Divorced,453,Approved
+43,85545,High School,Unemployed,Married,738,Denied
+42,102180,Masters,Unemployed,Married,594,Approved
+62,107958,Bachelors,Self-Employed,Married,518,Approved
+58,29865,High School,Employed,Widowed,794,Approved
+46,22219,PhD,Unemployed,Married,529,Denied
+32,59809,PhD,Employed,Single,319,Denied
+62,25287,High School,Employed,Widowed,447,Denied
+18,54387,PhD,Unemployed,Widowed,407,Approved
+42,28512,PhD,Unemployed,Married,702,Denied
+24,21342,PhD,Employed,Single,782,Approved
+26,83076,Bachelors,Employed,Widowed,666,Approved
+41,39216,PhD,Self-Employed,Divorced,713,Approved
+18,113070,PhD,Self-Employed,Widowed,608,Denied
+61,99767,PhD,Unemployed,Married,433,Denied
+25,117829,Bachelors,Self-Employed,Single,582,Denied
+41,46614,High School,Self-Employed,Married,372,Denied
+28,56258,Masters,Self-Employed,Divorced,780,Approved
+68,113789,PhD,Self-Employed,Divorced,651,Denied
+34,62078,High School,Employed,Divorced,625,Approved
+25,103524,PhD,Unemployed,Married,742,Denied
+52,116573,Bachelors,Self-Employed,Widowed,399,Denied
+52,32219,High School,Employed,Married,358,Denied
+50,20235,Bachelors,Employed,Single,807,Approved
+22,62929,PhD,Employed,Widowed,557,Approved
+59,87444,PhD,Self-Employed,Divorced,712,Approved
+56,28567,Bachelors,Self-Employed,Married,751,Approved
+58,90792,Masters,Unemployed,Divorced,364,Approved
+45,85441,Bachelors,Self-Employed,Divorced,453,Denied
+24,104555,PhD,Self-Employed,Single,565,Approved
+26,93698,Bachelors,Employed,Widowed,378,Approved
+25,25415,Masters,Unemployed,Single,614,Approved
+29,56159,Bachelors,Self-Employed,Single,547,Approved
+51,63925,Masters,Self-Employed,Single,713,Denied
+50,25951,Masters,Employed,Divorced,324,Approved
+65,107388,Bachelors,Employed,Single,583,Denied
+40,28007,Bachelors,Self-Employed,Single,748,Denied
+41,61832,High School,Unemployed,Widowed,600,Denied
+54,78596,PhD,Unemployed,Widowed,367,Approved
+52,50523,Masters,Employed,Single,306,Denied
+61,108861,High School,Employed,Widowed,436,Approved
+57,106740,Bachelors,Self-Employed,Widowed,463,Approved
+39,35524,PhD,Employed,Single,382,Approved
+44,39282,High School,Self-Employed,Divorced,719,Approved
+52,43930,Masters,Unemployed,Single,372,Approved
+18,20077,High School,Unemployed,Widowed,536,Denied
+52,40611,Masters,Self-Employed,Divorced,345,Denied
+54,36984,Bachelors,Employed,Married,561,Approved
+64,34060,PhD,Unemployed,Divorced,475,Denied
+31,102985,PhD,Employed,Widowed,465,Approved
+20,104056,PhD,Unemployed,Divorced,669,Denied
+18,63303,Bachelors,Self-Employed,Single,353,Denied
+22,79207,Masters,Self-Employed,Married,718,Denied
+43,95046,Bachelors,Self-Employed,Married,806,Denied
+31,49287,PhD,Unemployed,Married,640,Denied
+56,113709,Bachelors,Employed,Widowed,426,Approved
+44,59711,Bachelors,Employed,Widowed,708,Approved
+26,31954,Bachelors,Employed,Married,666,Denied
+32,93340,Masters,Unemployed,Divorced,570,Approved
+32,92101,High School,Unemployed,Married,678,Denied
+43,91520,High School,Unemployed,Divorced,372,Approved
+59,107062,Bachelors,Unemployed,Divorced,547,Denied
+30,38574,High School,Unemployed,Widowed,342,Denied
+68,29184,High School,Employed,Divorced,676,Denied
+49,39096,Bachelors,Unemployed,Married,340,Approved
+56,87728,Bachelors,Unemployed,Widowed,469,Approved
+66,54016,PhD,Employed,Single,511,Denied
+69,31246,High School,Unemployed,Single,792,Denied
+49,65558,Masters,Employed,Widowed,338,Approved
+21,38381,Bachelors,Employed,Married,668,Approved
+47,56455,PhD,Self-Employed,Single,450,Approved
+54,112263,Masters,Self-Employed,Single,410,Approved
+40,24018,High School,Self-Employed,Divorced,779,Approved
+56,31302,PhD,Self-Employed,Divorced,735,Denied
+62,87506,Bachelors,Unemployed,Married,346,Approved
+32,61157,Masters,Self-Employed,Widowed,665,Denied
+60,74917,Bachelors,Employed,Married,368,Denied
+46,112738,High School,Unemployed,Widowed,598,Approved
+53,116646,Masters,Self-Employed,Single,595,Approved
+30,103122,High School,Employed,Divorced,502,Denied
+49,44519,High School,Unemployed,Married,360,Approved
+24,116809,PhD,Unemployed,Married,613,Denied
+68,107487,Bachelors,Self-Employed,Widowed,460,Approved
+39,76819,Masters,Unemployed,Widowed,630,Approved
+45,100910,High School,Employed,Married,827,Approved
+19,91324,High School,Unemployed,Widowed,637,Denied
+59,25408,Masters,Employed,Married,603,Approved
+62,79379,High School,Unemployed,Married,802,Denied
+23,45053,PhD,Self-Employed,Married,637,Approved
+45,29446,PhD,Employed,Single,849,Denied
+45,20922,PhD,Unemployed,Widowed,574,Approved
+61,118723,PhD,Unemployed,Divorced,463,Denied
+61,71356,High School,Unemployed,Divorced,742,Denied
+37,30789,Masters,Employed,Widowed,618,Denied
+47,117720,Masters,Employed,Married,803,Denied
+28,86656,Masters,Employed,Divorced,686,Denied
+45,64028,Masters,Self-Employed,Divorced,793,Denied
+42,84484,Bachelors,Self-Employed,Widowed,789,Approved
+56,52154,Masters,Employed,Divorced,372,Denied
+50,102870,Bachelors,Unemployed,Married,808,Denied
+18,22336,Bachelors,Self-Employed,Widowed,689,Denied
+44,87779,PhD,Employed,Married,594,Approved
+69,39029,Bachelors,Unemployed,Divorced,668,Approved
+30,79201,High School,Self-Employed,Divorced,848,Approved
+58,52265,Bachelors,Unemployed,Married,486,Denied
+20,63872,PhD,Unemployed,Single,744,Approved
+56,66197,Bachelors,Unemployed,Divorced,662,Approved
+23,75180,High School,Unemployed,Single,422,Denied
+25,43710,High School,Self-Employed,Divorced,487,Denied
+44,49486,High School,Self-Employed,Single,719,Approved
+26,91907,PhD,Self-Employed,Single,551,Denied
+54,91895,PhD,Employed,Single,848,Denied
+50,84435,Masters,Self-Employed,Married,634,Denied
+68,60631,PhD,Unemployed,Single,391,Denied
+59,40103,High School,Self-Employed,Single,829,Approved
+61,84772,High School,Unemployed,Single,362,Denied
+41,34382,PhD,Employed,Divorced,811,Approved
+32,104291,Bachelors,Unemployed,Single,438,Approved
+49,23756,PhD,Unemployed,Divorced,484,Approved
+49,40609,PhD,Unemployed,Single,504,Approved
+41,36478,High School,Employed,Single,513,Denied
+58,59666,Masters,Self-Employed,Married,555,Denied
+69,95683,High School,Self-Employed,Divorced,434,Denied
+66,119097,Masters,Employed,Single,387,Approved
+66,91315,High School,Unemployed,Divorced,506,Approved
+69,97834,PhD,Self-Employed,Divorced,428,Approved
+29,34153,High School,Employed,Widowed,302,Denied
+56,96325,High School,Self-Employed,Married,420,Approved
+19,32999,High School,Employed,Married,684,Denied
+20,75318,PhD,Unemployed,Married,337,Denied
+66,20814,PhD,Self-Employed,Widowed,640,Denied
+54,96077,PhD,Employed,Widowed,320,Denied
+66,110474,PhD,Self-Employed,Married,541,Approved
+34,22443,Masters,Self-Employed,Widowed,754,Denied
+66,95993,Masters,Self-Employed,Widowed,602,Approved
+19,95916,Bachelors,Self-Employed,Widowed,368,Denied
+19,93319,PhD,Employed,Married,428,Approved
+45,37368,Masters,Unemployed,Married,495,Approved
+40,35328,High School,Employed,Married,439,Denied
+54,76942,PhD,Employed,Widowed,743,Denied
+49,111751,Bachelors,Employed,Married,582,Denied
+50,119131,Bachelors,Unemployed,Widowed,611,Approved
+18,47306,Bachelors,Self-Employed,Single,834,Denied
+36,105451,High School,Self-Employed,Widowed,576,Denied
+19,59915,Masters,Self-Employed,Divorced,360,Approved
+61,57219,High School,Unemployed,Married,618,Denied
+43,100879,PhD,Self-Employed,Married,351,Approved
+49,84644,Bachelors,Unemployed,Divorced,452,Denied
+23,80279,High School,Self-Employed,Widowed,610,Approved
+49,73028,High School,Self-Employed,Single,843,Approved
+21,20126,Masters,Employed,Divorced,688,Denied
+28,72329,Masters,Unemployed,Divorced,847,Approved
+34,47632,Bachelors,Employed,Widowed,476,Denied
+55,85310,High School,Employed,Married,661,Denied
+41,75176,High School,Employed,Widowed,613,Approved
+22,106066,Masters,Unemployed,Divorced,396,Denied
+69,64327,High School,Unemployed,Divorced,512,Approved
+51,88904,High School,Self-Employed,Married,436,Approved
+23,23797,High School,Employed,Married,305,Approved
+39,67882,Masters,Self-Employed,Married,408,Approved
+28,33718,Bachelors,Employed,Widowed,846,Approved
+65,54560,PhD,Unemployed,Married,338,Approved
+33,96589,Bachelors,Unemployed,Divorced,724,Approved
+50,42116,PhD,Unemployed,Divorced,560,Approved
+26,56244,High School,Employed,Single,725,Denied
+23,21645,Bachelors,Unemployed,Widowed,386,Denied
+33,67523,PhD,Employed,Single,764,Approved
+46,39256,Masters,Self-Employed,Divorced,375,Denied
+20,73173,Masters,Employed,Single,770,Denied
+37,57430,Bachelors,Self-Employed,Divorced,713,Denied
+53,59282,Bachelors,Employed,Single,756,Denied
+36,83374,High School,Self-Employed,Married,584,Denied
+43,88244,Bachelors,Unemployed,Single,538,Denied
+20,31694,High School,Self-Employed,Married,671,Approved
+36,76264,High School,Unemployed,Married,794,Denied
+37,95060,Masters,Unemployed,Widowed,344,Denied
+49,117416,Masters,Self-Employed,Married,700,Denied
+24,77545,PhD,Employed,Married,546,Denied
+69,59224,Masters,Employed,Single,749,Approved
+58,117945,Masters,Employed,Divorced,784,Approved
+50,33224,Bachelors,Employed,Widowed,317,Approved
+57,60738,Masters,Employed,Married,588,Approved
+56,45150,PhD,Unemployed,Widowed,713,Denied
+35,83731,Bachelors,Employed,Single,534,Approved
+57,69688,PhD,Unemployed,Married,715,Approved
+18,119929,Masters,Unemployed,Single,798,Approved
+28,93509,PhD,Unemployed,Widowed,414,Approved
+45,28577,Bachelors,Self-Employed,Single,533,Denied
+42,28070,High School,Self-Employed,Widowed,839,Approved
+67,28666,PhD,Unemployed,Single,310,Denied
+40,77761,PhD,Self-Employed,Widowed,505,Approved
+48,56368,Bachelors,Employed,Divorced,546,Denied
+47,26783,Bachelors,Employed,Single,426,Denied
+59,61914,PhD,Unemployed,Single,446,Approved
+52,90507,Masters,Employed,Divorced,417,Approved
+24,99026,PhD,Unemployed,Divorced,681,Approved
+33,87526,Bachelors,Unemployed,Single,711,Approved
+43,90835,High School,Employed,Divorced,662,Denied
+65,65765,High School,Self-Employed,Married,808,Denied
+69,39956,Masters,Employed,Widowed,436,Approved
+66,107895,PhD,Employed,Widowed,474,Approved
+19,66240,High School,Unemployed,Widowed,588,Denied
+18,57148,PhD,Unemployed,Married,780,Approved
+65,114270,Bachelors,Unemployed,Divorced,318,Denied
+29,24757,High School,Unemployed,Divorced,494,Approved
+22,39097,Masters,Self-Employed,Single,629,Denied
+54,30395,Bachelors,Self-Employed,Divorced,474,Denied
+49,36241,Masters,Self-Employed,Single,748,Denied
+26,47696,Bachelors,Unemployed,Married,653,Denied
+58,90480,High School,Unemployed,Widowed,798,Denied
+52,66163,Masters,Unemployed,Widowed,440,Approved
+36,39816,Masters,Self-Employed,Widowed,392,Denied
+65,69840,Bachelors,Unemployed,Divorced,538,Approved
+33,72853,Masters,Employed,Single,504,Denied
+20,44917,Bachelors,Employed,Single,732,Denied
+37,116731,Bachelors,Unemployed,Married,544,Approved
+41,41566,Bachelors,Employed,Divorced,616,Approved
+50,95452,Bachelors,Employed,Married,594,Approved
+41,82823,High School,Self-Employed,Single,581,Approved
+69,40806,Bachelors,Unemployed,Single,316,Denied
+28,95520,PhD,Unemployed,Widowed,370,Approved
+66,21759,Masters,Self-Employed,Divorced,568,Denied
+25,61949,PhD,Employed,Single,624,Approved
+53,112374,High School,Employed,Widowed,604,Approved
+55,22482,PhD,Unemployed,Divorced,750,Denied
+57,44442,Masters,Employed,Married,306,Denied
+37,53719,PhD,Self-Employed,Divorced,613,Approved
+52,78066,High School,Self-Employed,Divorced,402,Denied
+65,113501,Bachelors,Unemployed,Single,492,Denied
+42,22079,PhD,Self-Employed,Single,828,Denied
+52,22717,High School,Self-Employed,Divorced,470,Denied
+42,79676,High School,Unemployed,Single,836,Denied
+46,47952,Masters,Self-Employed,Single,550,Denied
+35,106444,Masters,Self-Employed,Single,686,Denied
+63,62460,PhD,Self-Employed,Widowed,506,Denied
+35,110397,Bachelors,Employed,Widowed,840,Approved
+19,92847,High School,Unemployed,Divorced,715,Denied
+52,113607,PhD,Unemployed,Single,679,Approved
+33,109106,High School,Unemployed,Widowed,443,Denied
+58,38449,High School,Employed,Divorced,324,Denied
+53,53536,Bachelors,Employed,Single,372,Denied
+50,84077,Bachelors,Unemployed,Married,392,Denied
+21,58258,PhD,Employed,Single,804,Approved
+50,68302,Bachelors,Unemployed,Single,635,Approved
+31,48865,Bachelors,Employed,Widowed,724,Denied
+38,26645,PhD,Self-Employed,Divorced,798,Approved
+65,58000,Bachelors,Self-Employed,Divorced,663,Denied
+37,46737,Masters,Unemployed,Widowed,498,Denied
+25,31485,High School,Employed,Single,712,Approved
+24,58565,High School,Employed,Married,638,Approved
+20,45522,High School,Self-Employed,Single,728,Denied
+34,85155,High School,Self-Employed,Single,438,Denied
+50,75168,PhD,Employed,Married,841,Approved
+65,72487,High School,Employed,Widowed,356,Denied
+29,32342,High School,Employed,Divorced,531,Approved
+68,60806,High School,Employed,Widowed,734,Denied
+39,68770,High School,Employed,Widowed,683,Denied
+39,98623,Masters,Employed,Single,493,Approved
+63,119785,High School,Unemployed,Divorced,833,Approved
+47,95629,Masters,Employed,Divorced,817,Approved
+55,72603,PhD,Self-Employed,Widowed,484,Denied
+55,101974,Bachelors,Unemployed,Married,591,Denied
+62,46399,High School,Employed,Widowed,634,Denied
+68,105382,Bachelors,Self-Employed,Married,415,Denied
+25,101244,Bachelors,Unemployed,Divorced,348,Approved
+44,96534,PhD,Self-Employed,Widowed,381,Denied
+44,75106,Bachelors,Employed,Single,632,Denied
+51,50678,Masters,Employed,Widowed,634,Denied
+38,96218,Bachelors,Employed,Divorced,831,Approved
+47,83230,Bachelors,Employed,Single,520,Denied
+50,94055,Bachelors,Unemployed,Single,622,Denied
+45,76373,High School,Unemployed,Married,302,Approved
+64,51480,High School,Self-Employed,Single,505,Denied
+50,105230,Masters,Employed,Single,339,Denied
+22,88836,Masters,Self-Employed,Widowed,358,Approved
+65,92258,High School,Unemployed,Divorced,806,Denied
+36,59986,Masters,Employed,Married,421,Denied
+21,44160,High School,Employed,Widowed,778,Denied
+52,105595,PhD,Unemployed,Single,395,Approved
+66,99111,Bachelors,Unemployed,Single,713,Denied
+34,84929,Bachelors,Unemployed,Married,534,Denied
+61,93506,Masters,Unemployed,Divorced,361,Approved
+45,54911,High School,Unemployed,Married,555,Approved
+47,107127,High School,Employed,Widowed,647,Denied
+46,51821,Masters,Unemployed,Married,423,Denied
+63,95039,High School,Employed,Single,781,Denied
+23,80535,PhD,Employed,Widowed,616,Denied
+52,104458,Bachelors,Unemployed,Single,803,Approved
+58,32175,Masters,Unemployed,Divorced,347,Denied
+54,74771,Masters,Employed,Single,708,Approved
+41,106925,High School,Unemployed,Single,435,Approved
+46,86358,Masters,Unemployed,Married,500,Denied
+66,37327,PhD,Unemployed,Single,549,Denied
+63,67057,High School,Self-Employed,Widowed,613,Approved
+48,26150,High School,Employed,Widowed,667,Approved
+52,24425,High School,Self-Employed,Divorced,728,Denied
+50,36032,High School,Unemployed,Widowed,779,Approved
+69,22198,PhD,Self-Employed,Married,613,Denied
+38,80500,High School,Unemployed,Divorced,799,Denied
+49,73394,Masters,Self-Employed,Widowed,654,Approved
+40,40079,PhD,Unemployed,Married,784,Approved
+50,56220,Bachelors,Self-Employed,Widowed,510,Denied
+20,61874,Bachelors,Self-Employed,Widowed,343,Approved
+35,33859,Masters,Self-Employed,Single,840,Denied
+42,70460,Masters,Employed,Widowed,391,Denied
+59,51419,PhD,Self-Employed,Widowed,564,Denied
+48,28705,Bachelors,Employed,Married,519,Approved
+20,62880,Bachelors,Unemployed,Married,741,Denied
+57,43236,Bachelors,Self-Employed,Single,700,Denied
+63,107955,Bachelors,Unemployed,Widowed,699,Denied
+41,105514,Bachelors,Unemployed,Single,789,Denied
+67,35358,High School,Self-Employed,Widowed,784,Denied
+49,119713,Masters,Employed,Divorced,769,Denied
+64,114914,High School,Self-Employed,Divorced,744,Denied
+39,96918,Bachelors,Unemployed,Single,568,Denied
+40,34596,PhD,Unemployed,Single,566,Denied
+19,53572,PhD,Self-Employed,Single,353,Denied
+44,98757,Bachelors,Employed,Married,827,Denied
+59,21279,Bachelors,Employed,Married,819,Approved
+19,83197,PhD,Unemployed,Married,358,Denied
+43,82516,High School,Unemployed,Single,339,Denied
+34,27083,High School,Employed,Widowed,536,Denied
+57,37771,Bachelors,Self-Employed,Divorced,685,Approved
+50,49975,High School,Unemployed,Single,599,Denied
+26,65648,PhD,Employed,Married,694,Approved
+60,68285,High School,Unemployed,Married,506,Denied
+65,39063,Bachelors,Self-Employed,Single,635,Denied
+56,87642,PhD,Employed,Single,813,Approved
+46,110093,High School,Unemployed,Married,477,Denied
+59,106143,Masters,Self-Employed,Widowed,695,Approved
+43,57599,PhD,Unemployed,Married,670,Approved
+52,71920,PhD,Self-Employed,Married,617,Denied
+67,48529,Masters,Self-Employed,Single,668,Denied
+42,55954,Masters,Employed,Widowed,683,Denied
+41,47856,PhD,Self-Employed,Married,361,Denied
+30,22573,Masters,Unemployed,Married,804,Approved
+24,98344,Bachelors,Self-Employed,Divorced,538,Approved
+53,55367,Bachelors,Self-Employed,Single,494,Denied
+62,119608,Bachelors,Employed,Divorced,521,Approved
+37,80774,PhD,Self-Employed,Divorced,360,Approved
+18,43752,Masters,Self-Employed,Married,428,Denied
+25,75029,Masters,Unemployed,Single,455,Approved
+63,37685,High School,Employed,Widowed,677,Approved
+33,71693,High School,Employed,Married,736,Denied
+31,75961,Masters,Employed,Widowed,506,Approved
+29,96908,Masters,Self-Employed,Widowed,687,Denied
+68,94532,Masters,Employed,Single,779,Approved
+40,101994,PhD,Self-Employed,Divorced,639,Denied
+32,76133,Masters,Self-Employed,Single,639,Approved
+45,117425,High School,Unemployed,Widowed,503,Approved
+51,81268,PhD,Unemployed,Married,460,Denied
+19,112201,Masters,Unemployed,Widowed,839,Denied
+49,58243,High School,Unemployed,Married,691,Denied
+40,77384,PhD,Unemployed,Married,833,Denied
+39,51653,Masters,Self-Employed,Single,369,Approved
+68,46657,Masters,Self-Employed,Widowed,704,Approved
+42,59952,Masters,Employed,Divorced,816,Approved
+39,42180,PhD,Self-Employed,Widowed,419,Denied
+39,117432,High School,Self-Employed,Widowed,516,Approved
+66,98411,High School,Unemployed,Divorced,355,Approved
+69,21622,Bachelors,Self-Employed,Single,665,Denied
+59,68756,Masters,Unemployed,Widowed,803,Denied
+23,60809,Bachelors,Employed,Widowed,754,Approved
+32,36725,Bachelors,Employed,Married,403,Denied
+60,81396,High School,Self-Employed,Widowed,376,Approved
+54,71226,PhD,Employed,Divorced,529,Approved
+50,101182,PhD,Self-Employed,Married,557,Denied
+25,102565,High School,Employed,Single,563,Approved
+61,49402,PhD,Unemployed,Married,630,Denied
+61,24263,Bachelors,Unemployed,Divorced,481,Denied
+22,116523,Masters,Unemployed,Divorced,849,Approved
+56,66828,High School,Unemployed,Married,326,Approved
+21,67924,Masters,Self-Employed,Single,575,Approved
+23,94182,PhD,Employed,Married,598,Denied
+62,113065,Masters,Self-Employed,Single,390,Approved
+49,79052,PhD,Unemployed,Married,779,Denied
+69,31664,PhD,Self-Employed,Divorced,757,Denied
+47,55737,Bachelors,Employed,Widowed,750,Approved
+64,109563,PhD,Self-Employed,Widowed,664,Denied
+52,49373,Bachelors,Employed,Single,650,Approved
+57,56397,Bachelors,Self-Employed,Single,699,Approved
+69,106145,Bachelors,Employed,Single,552,Approved
+33,58709,High School,Employed,Divorced,758,Approved
+30,81120,High School,Unemployed,Married,798,Approved
+67,39250,PhD,Employed,Divorced,807,Approved
+59,41172,Bachelors,Unemployed,Widowed,603,Approved
+47,31555,High School,Unemployed,Single,800,Denied
+36,107410,Bachelors,Unemployed,Married,465,Approved
+34,98617,Masters,Self-Employed,Widowed,714,Denied
+36,73276,Masters,Self-Employed,Widowed,761,Denied
+45,77492,Masters,Self-Employed,Widowed,413,Denied
+43,73002,PhD,Self-Employed,Divorced,732,Approved
+54,109599,Bachelors,Employed,Single,655,Denied
+43,92355,Masters,Employed,Widowed,506,Denied
+40,111248,High School,Self-Employed,Single,534,Approved
+26,44762,Masters,Employed,Divorced,741,Approved
+29,31046,Masters,Employed,Widowed,654,Denied
+18,116999,Masters,Unemployed,Divorced,814,Approved
+18,48769,PhD,Unemployed,Divorced,507,Approved
+64,73302,High School,Unemployed,Single,424,Approved
+51,43150,Bachelors,Unemployed,Widowed,437,Approved
+49,88247,High School,Employed,Divorced,638,Denied
+65,24853,Bachelors,Self-Employed,Widowed,836,Approved
+42,114613,PhD,Employed,Single,367,Approved
+57,109399,PhD,Employed,Divorced,840,Approved
+62,41792,PhD,Employed,Single,682,Denied
+18,79129,PhD,Unemployed,Widowed,318,Denied
+33,94478,Bachelors,Unemployed,Widowed,749,Approved
+56,87298,Masters,Unemployed,Single,373,Approved
+22,51987,Bachelors,Self-Employed,Married,575,Denied
+39,35850,High School,Employed,Divorced,347,Approved
+46,32112,PhD,Self-Employed,Widowed,510,Approved
+20,44058,PhD,Unemployed,Widowed,839,Denied
+29,65420,High School,Self-Employed,Divorced,490,Approved
+43,58890,Bachelors,Employed,Single,614,Approved
+33,86017,Masters,Employed,Single,412,Denied
+68,67304,Masters,Unemployed,Single,469,Denied
+54,52921,High School,Unemployed,Married,767,Approved
+39,21524,Masters,Self-Employed,Married,313,Denied
+46,35048,Bachelors,Unemployed,Widowed,587,Approved
+31,55111,Bachelors,Unemployed,Single,488,Approved
+45,57904,High School,Employed,Divorced,454,Approved
+22,74912,Bachelors,Unemployed,Widowed,770,Denied
+64,54008,PhD,Unemployed,Divorced,374,Denied
+66,20060,High School,Employed,Widowed,576,Approved
+47,94666,Bachelors,Employed,Married,642,Approved
+63,103559,High School,Self-Employed,Widowed,724,Denied
+69,75337,Masters,Unemployed,Married,810,Denied
+22,33350,Bachelors,Employed,Widowed,481,Denied
+29,44354,PhD,Self-Employed,Single,757,Approved
+33,65186,Bachelors,Self-Employed,Divorced,363,Denied
+43,48145,High School,Unemployed,Single,559,Denied
+43,54020,High School,Unemployed,Widowed,492,Approved
+65,106123,Bachelors,Self-Employed,Widowed,705,Approved
+38,95186,PhD,Employed,Widowed,392,Approved
+56,105469,PhD,Self-Employed,Married,729,Denied
+53,40581,PhD,Unemployed,Divorced,733,Approved
+50,108929,High School,Employed,Divorced,703,Approved
+47,43051,Bachelors,Employed,Widowed,733,Approved
+54,71474,Masters,Self-Employed,Widowed,411,Approved
+40,111748,High School,Unemployed,Married,674,Denied
+27,89626,PhD,Self-Employed,Single,358,Approved
+22,26960,Bachelors,Self-Employed,Single,342,Denied
+53,55772,PhD,Self-Employed,Divorced,506,Denied
+51,41520,Masters,Employed,Married,595,Denied
+69,69481,PhD,Employed,Widowed,417,Approved
+48,56408,PhD,Unemployed,Divorced,831,Denied
+27,114006,Masters,Unemployed,Married,521,Approved
+36,77134,Bachelors,Self-Employed,Single,465,Approved
+49,40491,High School,Self-Employed,Married,455,Approved
+18,21341,Bachelors,Self-Employed,Single,483,Denied
+22,64623,Masters,Unemployed,Married,389,Approved
+62,110327,PhD,Employed,Divorced,393,Approved
+21,20338,Bachelors,Employed,Single,312,Approved
+33,91431,High School,Self-Employed,Divorced,737,Denied
+41,32254,Masters,Self-Employed,Divorced,837,Denied
+33,71860,Bachelors,Self-Employed,Single,449,Denied
+19,31344,High School,Self-Employed,Single,307,Approved
+66,21750,Masters,Unemployed,Widowed,328,Denied
+45,74756,High School,Employed,Widowed,595,Approved
+49,87957,Masters,Self-Employed,Widowed,639,Approved
+44,78053,PhD,Unemployed,Divorced,738,Denied
+37,90855,Bachelors,Self-Employed,Divorced,443,Approved
+41,35896,High School,Self-Employed,Widowed,818,Denied
+29,75761,Masters,Employed,Divorced,344,Approved
+67,82552,High School,Self-Employed,Divorced,538,Denied
+52,97454,High School,Employed,Single,454,Approved
+50,110600,Bachelors,Employed,Single,480,Approved
+50,47935,PhD,Employed,Divorced,514,Approved
+68,57641,High School,Unemployed,Widowed,387,Approved
+60,49711,Masters,Unemployed,Married,555,Approved
+54,90342,Masters,Employed,Widowed,810,Denied
+29,32182,PhD,Self-Employed,Married,372,Approved
+20,107833,Masters,Employed,Widowed,478,Denied
+18,76276,PhD,Self-Employed,Single,511,Denied
+50,39541,Masters,Employed,Divorced,533,Denied
+57,114457,Bachelors,Self-Employed,Divorced,764,Approved
+27,102310,High School,Unemployed,Single,522,Approved
+60,64813,Bachelors,Self-Employed,Married,563,Approved
+61,57198,High School,Employed,Married,506,Denied
+46,28820,High School,Unemployed,Married,665,Approved
+30,44070,High School,Self-Employed,Single,575,Approved
+29,89768,Bachelors,Self-Employed,Married,679,Denied
+48,31122,High School,Self-Employed,Single,608,Denied
+63,100559,Bachelors,Self-Employed,Widowed,567,Denied
+19,93543,PhD,Self-Employed,Widowed,363,Denied
+68,103441,Masters,Unemployed,Single,649,Denied
+67,61786,Masters,Unemployed,Divorced,793,Denied
+52,114934,High School,Unemployed,Widowed,822,Approved
+40,119804,Bachelors,Unemployed,Married,397,Denied
+34,26737,Masters,Employed,Single,370,Approved
+43,56062,Bachelors,Unemployed,Married,663,Approved
+25,74237,Bachelors,Self-Employed,Married,575,Approved
+46,71571,High School,Self-Employed,Divorced,349,Denied
+43,45510,Masters,Unemployed,Married,657,Approved
+27,39426,High School,Self-Employed,Divorced,784,Denied
+43,57265,High School,Unemployed,Widowed,383,Denied
+51,37850,Masters,Self-Employed,Single,595,Approved
+68,86150,Masters,Employed,Married,535,Denied
+58,107312,PhD,Employed,Single,355,Approved
+24,109613,PhD,Unemployed,Married,659,Approved
+21,94910,Bachelors,Unemployed,Single,409,Denied
+67,72375,Masters,Unemployed,Married,491,Approved
+62,55435,PhD,Self-Employed,Married,392,Approved
+28,116443,Bachelors,Unemployed,Married,359,Approved
+46,77132,Bachelors,Employed,Married,338,Denied
+53,98945,Bachelors,Self-Employed,Married,839,Approved
+42,102050,PhD,Unemployed,Married,348,Denied
+38,115402,Masters,Self-Employed,Married,719,Denied
+53,22983,High School,Self-Employed,Married,312,Approved
+27,117241,Bachelors,Unemployed,Married,335,Approved
+54,40662,PhD,Self-Employed,Single,400,Denied
+26,43510,PhD,Employed,Divorced,385,Denied
+41,98187,High School,Employed,Married,815,Approved
+52,60998,High School,Self-Employed,Divorced,522,Approved
+66,76846,PhD,Unemployed,Married,637,Denied
+52,114071,Masters,Self-Employed,Married,465,Denied
+65,26640,High School,Employed,Single,682,Denied
+53,64547,PhD,Self-Employed,Widowed,675,Denied
+35,74620,High School,Self-Employed,Widowed,770,Denied
+66,35317,Masters,Employed,Single,330,Approved
+56,27564,Bachelors,Self-Employed,Divorced,674,Denied
+49,47345,High School,Self-Employed,Widowed,310,Denied
+41,114223,Masters,Unemployed,Single,601,Approved
+40,99273,PhD,Unemployed,Single,395,Approved
+49,94859,High School,Employed,Widowed,489,Denied
+54,100765,High School,Employed,Divorced,752,Denied
+29,94038,PhD,Employed,Single,491,Approved
+66,72393,Bachelors,Unemployed,Married,785,Denied
+30,86081,PhD,Employed,Divorced,565,Denied
+40,49430,High School,Employed,Divorced,723,Approved
+42,95532,PhD,Employed,Widowed,427,Denied
+52,47788,Masters,Unemployed,Widowed,537,Approved
+58,115505,PhD,Self-Employed,Married,654,Approved
+47,68543,High School,Employed,Single,411,Approved
+34,33919,PhD,Self-Employed,Widowed,745,Approved
+66,89346,Bachelors,Employed,Widowed,642,Denied
+37,116122,PhD,Self-Employed,Divorced,444,Approved
+65,59974,Bachelors,Unemployed,Widowed,364,Denied
+42,36371,Masters,Unemployed,Widowed,546,Denied
+39,65084,Bachelors,Employed,Widowed,789,Denied
+30,49629,PhD,Self-Employed,Widowed,738,Denied
+36,71184,High School,Unemployed,Divorced,405,Denied
+66,81916,Bachelors,Employed,Married,480,Approved
+53,93972,Masters,Employed,Married,483,Approved
+29,82187,Bachelors,Unemployed,Single,525,Approved
+58,32984,Bachelors,Unemployed,Widowed,388,Approved
+36,53039,Bachelors,Employed,Divorced,829,Denied
+29,105431,Masters,Self-Employed,Single,670,Approved
+26,103691,PhD,Self-Employed,Single,698,Denied
+24,78606,Bachelors,Self-Employed,Married,405,Denied
+45,30616,Bachelors,Employed,Divorced,570,Approved
+31,70072,High School,Unemployed,Divorced,802,Approved
+48,44574,Masters,Employed,Divorced,824,Approved
+69,23430,Bachelors,Unemployed,Married,331,Approved
+36,32676,Masters,Self-Employed,Married,692,Denied
+64,30816,Bachelors,Self-Employed,Married,339,Denied
+33,52733,PhD,Unemployed,Married,517,Approved
+22,105680,PhD,Unemployed,Married,381,Denied
+52,22050,Bachelors,Employed,Widowed,500,Denied
+29,53933,PhD,Self-Employed,Widowed,746,Denied
+42,44951,Bachelors,Employed,Divorced,727,Approved
+69,52413,PhD,Employed,Single,337,Denied
+38,54801,High School,Employed,Divorced,510,Approved
+53,75619,High School,Self-Employed,Single,743,Approved
+40,52913,High School,Employed,Married,626,Denied
+33,60600,Masters,Employed,Single,526,Denied
+56,77775,Masters,Employed,Divorced,347,Approved
+62,110816,High School,Employed,Divorced,317,Denied
+59,110093,Masters,Employed,Single,738,Denied
+56,55400,PhD,Employed,Widowed,486,Approved
+31,24494,Bachelors,Self-Employed,Married,644,Approved
+48,100688,Bachelors,Employed,Married,523,Approved
+22,109431,Bachelors,Unemployed,Divorced,787,Approved
+52,94691,High School,Employed,Widowed,528,Denied
+40,117419,Masters,Employed,Single,689,Denied
+46,63001,PhD,Self-Employed,Married,487,Approved
+60,87364,PhD,Self-Employed,Widowed,569,Approved
+28,65028,High School,Unemployed,Married,609,Approved
+35,117659,PhD,Unemployed,Widowed,431,Denied
+64,57573,PhD,Self-Employed,Widowed,371,Approved
+29,20806,PhD,Self-Employed,Divorced,486,Denied
+26,76638,PhD,Employed,Married,785,Approved
+27,49757,Masters,Self-Employed,Single,490,Approved
+61,54636,PhD,Unemployed,Divorced,721,Approved
+34,100097,Bachelors,Employed,Divorced,419,Denied
+55,68280,High School,Unemployed,Single,519,Denied
+24,44262,Masters,Employed,Divorced,352,Denied
+63,100435,PhD,Self-Employed,Widowed,750,Approved
+30,82211,Masters,Unemployed,Widowed,711,Denied
+57,74842,PhD,Employed,Married,536,Denied
+59,76979,Bachelors,Employed,Married,705,Approved
+26,101470,High School,Self-Employed,Single,721,Approved
+67,58197,PhD,Self-Employed,Married,546,Denied
+44,61844,PhD,Self-Employed,Widowed,371,Denied
+19,84754,PhD,Unemployed,Single,484,Denied
+22,54157,PhD,Employed,Single,305,Denied
+46,97129,High School,Self-Employed,Married,505,Approved
+54,60042,High School,Unemployed,Widowed,843,Approved
+55,81665,Bachelors,Unemployed,Single,686,Approved
+36,102856,High School,Unemployed,Widowed,375,Denied
+25,47376,PhD,Self-Employed,Widowed,476,Denied
+65,75554,Bachelors,Self-Employed,Widowed,648,Approved
+62,34199,Bachelors,Employed,Married,554,Approved
+18,101412,Bachelors,Employed,Divorced,607,Denied
+39,70948,PhD,Self-Employed,Divorced,644,Denied
+69,93781,Masters,Unemployed,Single,426,Approved
+34,92750,PhD,Unemployed,Widowed,586,Approved
+24,86262,High School,Unemployed,Married,786,Approved
+42,66600,High School,Employed,Widowed,682,Denied
+62,96898,PhD,Unemployed,Widowed,705,Denied
+21,82483,PhD,Employed,Married,687,Denied
+53,38297,Bachelors,Employed,Divorced,824,Denied
+23,50448,PhD,Unemployed,Widowed,575,Denied
+48,46172,Bachelors,Unemployed,Widowed,799,Denied
+36,62874,High School,Self-Employed,Divorced,636,Approved
+61,27657,Bachelors,Self-Employed,Married,780,Approved
+56,104386,PhD,Unemployed,Single,572,Denied
+44,45425,High School,Employed,Divorced,357,Approved
+27,46685,Masters,Employed,Single,627,Denied
+43,44578,Bachelors,Employed,Single,408,Approved
+36,48831,High School,Employed,Divorced,578,Denied
+56,27906,Bachelors,Employed,Widowed,627,Approved
+20,81413,High School,Self-Employed,Single,614,Approved
+62,74028,High School,Unemployed,Single,773,Denied
+30,27287,Bachelors,Self-Employed,Married,410,Denied
+67,53660,Masters,Employed,Widowed,528,Approved
+45,95758,High School,Employed,Single,796,Approved
+37,80504,High School,Employed,Married,455,Denied
+45,79720,High School,Employed,Widowed,772,Approved
+25,54701,Masters,Unemployed,Divorced,571,Denied
+58,103300,Masters,Employed,Divorced,301,Denied
+56,37674,PhD,Unemployed,Married,810,Approved
+18,103560,Bachelors,Employed,Divorced,585,Denied
+20,43874,Masters,Unemployed,Single,312,Approved
+30,63642,Bachelors,Self-Employed,Widowed,797,Approved
+45,117820,PhD,Employed,Single,537,Denied
+66,85160,Bachelors,Unemployed,Single,393,Approved
+42,37602,Masters,Self-Employed,Divorced,637,Denied
+50,108801,Bachelors,Employed,Single,470,Denied
+55,45931,Masters,Employed,Divorced,766,Denied
+23,114377,Bachelors,Employed,Widowed,442,Approved
+61,49192,Masters,Unemployed,Widowed,500,Denied
+62,66542,Masters,Unemployed,Single,479,Approved
+49,62520,Bachelors,Self-Employed,Married,663,Denied
+62,84772,PhD,Unemployed,Divorced,778,Denied
+64,78762,High School,Unemployed,Divorced,770,Denied
+38,70106,PhD,Employed,Single,683,Approved
+33,101121,Bachelors,Employed,Divorced,716,Approved
+38,45559,PhD,Employed,Divorced,607,Denied
+28,53742,Masters,Employed,Married,666,Denied
+54,89669,High School,Employed,Married,300,Approved
+53,100199,Bachelors,Employed,Single,343,Approved
+52,41754,Bachelors,Employed,Married,397,Approved
+36,23972,Bachelors,Self-Employed,Single,564,Denied
+37,90831,High School,Self-Employed,Widowed,439,Approved
+35,61873,Masters,Self-Employed,Single,780,Denied
+64,114661,Bachelors,Self-Employed,Widowed,536,Approved
+58,29903,PhD,Employed,Single,371,Denied
+66,23020,Bachelors,Self-Employed,Divorced,489,Denied
+31,61755,Bachelors,Employed,Married,567,Denied
+32,105956,Bachelors,Self-Employed,Widowed,620,Approved
+48,106988,Bachelors,Unemployed,Single,406,Approved
+18,65648,Masters,Self-Employed,Married,531,Approved
+20,29516,PhD,Self-Employed,Single,341,Denied
+33,22396,Masters,Employed,Married,438,Denied
+40,104082,PhD,Self-Employed,Married,572,Approved
+28,39129,Bachelors,Unemployed,Single,780,Denied
+29,21591,High School,Employed,Widowed,715,Denied
+27,31303,Masters,Employed,Widowed,805,Denied
+49,50561,High School,Self-Employed,Divorced,723,Approved
+33,91719,Masters,Employed,Married,706,Denied
+25,112108,Bachelors,Employed,Divorced,689,Approved
+55,119616,Masters,Employed,Divorced,641,Approved
+29,106231,Bachelors,Employed,Single,792,Approved
+41,27314,Masters,Employed,Single,491,Approved
+45,39623,Bachelors,Employed,Single,798,Approved
+25,87675,Bachelors,Unemployed,Married,532,Denied
+45,116826,PhD,Self-Employed,Single,526,Approved
+53,85082,Bachelors,Unemployed,Single,670,Approved
+43,103624,PhD,Employed,Married,438,Approved
+25,53130,Bachelors,Employed,Married,448,Denied
+67,71756,High School,Self-Employed,Widowed,414,Denied
+45,117624,Bachelors,Unemployed,Single,749,Denied
+45,46292,High School,Self-Employed,Single,362,Denied
+54,106206,High School,Unemployed,Single,403,Approved
+58,89274,Bachelors,Employed,Widowed,572,Approved
+53,22469,High School,Self-Employed,Single,305,Denied
+44,73947,PhD,Self-Employed,Widowed,446,Denied
+34,42534,Masters,Employed,Divorced,483,Denied
+26,83620,Bachelors,Self-Employed,Widowed,327,Denied
+50,68874,High School,Unemployed,Divorced,849,Approved
+37,69708,Bachelors,Unemployed,Single,418,Denied
+30,94553,PhD,Unemployed,Divorced,592,Denied
+45,88344,Bachelors,Unemployed,Widowed,670,Denied
+65,69138,Bachelors,Employed,Married,543,Denied
+46,74302,High School,Self-Employed,Divorced,517,Denied
+30,67638,PhD,Unemployed,Divorced,476,Denied
+63,98249,Masters,Employed,Single,598,Denied
+52,22719,Masters,Self-Employed,Widowed,357,Approved
+23,42890,High School,Self-Employed,Divorced,568,Approved
+35,97236,Bachelors,Employed,Divorced,607,Approved
+68,56509,High School,Employed,Divorced,587,Approved
+22,62534,High School,Unemployed,Divorced,404,Approved
+64,112241,High School,Self-Employed,Married,527,Approved
+42,38787,Bachelors,Self-Employed,Widowed,546,Denied
+19,68845,PhD,Employed,Single,793,Denied
+27,77932,High School,Self-Employed,Single,382,Approved
+47,112124,Bachelors,Unemployed,Married,485,Denied
+67,111659,PhD,Self-Employed,Widowed,551,Approved
+62,53062,High School,Employed,Divorced,654,Denied
+22,95713,Masters,Employed,Married,509,Denied
+50,107263,PhD,Unemployed,Widowed,746,Denied
+18,115756,High School,Unemployed,Divorced,759,Denied
+35,80461,PhD,Self-Employed,Married,771,Denied
+49,95418,PhD,Self-Employed,Widowed,669,Denied
+64,86672,PhD,Employed,Single,791,Approved
+66,54832,PhD,Unemployed,Single,436,Approved
+28,51966,PhD,Unemployed,Widowed,666,Denied
+38,92545,PhD,Unemployed,Single,483,Approved
+43,32987,High School,Self-Employed,Widowed,586,Denied
+42,57311,Masters,Unemployed,Divorced,771,Approved
+39,51575,Bachelors,Employed,Widowed,674,Denied
+44,83852,PhD,Employed,Divorced,836,Approved
+66,21007,Bachelors,Self-Employed,Married,810,Denied
+30,90981,High School,Self-Employed,Widowed,549,Approved
+50,96242,PhD,Unemployed,Married,809,Denied
+51,67517,Masters,Self-Employed,Single,372,Approved
+58,49257,Bachelors,Employed,Divorced,581,Denied
+52,107272,PhD,Unemployed,Widowed,659,Denied
+18,62207,High School,Employed,Married,309,Denied
+38,33281,Masters,Unemployed,Divorced,510,Approved
+65,81246,Bachelors,Self-Employed,Divorced,451,Approved
+23,21435,Bachelors,Unemployed,Single,304,Approved
+45,118875,PhD,Unemployed,Single,494,Denied
+34,111357,Masters,Employed,Divorced,582,Approved
+22,46660,Masters,Employed,Divorced,763,Denied
+48,25084,Masters,Unemployed,Widowed,412,Approved
+22,102197,Masters,Self-Employed,Divorced,570,Approved
+55,33507,High School,Self-Employed,Widowed,462,Approved
+20,92595,Masters,Employed,Divorced,759,Approved
+40,103807,Bachelors,Self-Employed,Single,404,Denied
+54,65539,Bachelors,Employed,Widowed,581,Approved
+54,27491,High School,Self-Employed,Married,461,Approved
+27,70192,Bachelors,Unemployed,Single,650,Denied
+27,100395,Bachelors,Employed,Widowed,733,Denied
+36,83888,Masters,Employed,Widowed,439,Approved
+34,93609,Bachelors,Unemployed,Married,770,Approved
+38,29077,High School,Employed,Widowed,431,Denied
+31,40953,Masters,Self-Employed,Divorced,386,Denied
+26,96919,PhD,Self-Employed,Married,482,Denied
+63,87889,Masters,Employed,Single,667,Approved
+18,43821,High School,Self-Employed,Single,428,Approved
+68,57567,Masters,Employed,Divorced,545,Approved
+62,44860,Masters,Unemployed,Single,677,Denied
+30,41195,High School,Employed,Widowed,448,Denied
+21,97475,Masters,Unemployed,Widowed,732,Denied
+18,110874,High School,Self-Employed,Divorced,768,Approved
+66,107266,High School,Unemployed,Single,745,Denied
+57,41427,PhD,Self-Employed,Single,780,Approved
+49,47083,Bachelors,Employed,Divorced,593,Denied
+51,107046,Bachelors,Self-Employed,Married,442,Approved
+45,77372,Masters,Employed,Single,549,Approved
+48,64064,Masters,Employed,Married,601,Denied
+25,27813,PhD,Unemployed,Single,324,Approved
+56,51598,PhD,Unemployed,Single,369,Denied
+43,113106,PhD,Unemployed,Single,411,Approved
+51,47082,High School,Unemployed,Single,663,Denied
+20,49241,PhD,Self-Employed,Widowed,602,Denied
+67,116214,PhD,Self-Employed,Married,770,Approved
+29,64569,Masters,Self-Employed,Married,390,Denied
+18,31745,PhD,Employed,Single,829,Approved
+61,46029,High School,Self-Employed,Single,491,Denied
+22,33025,High School,Self-Employed,Married,541,Denied
+47,34288,Masters,Self-Employed,Widowed,437,Denied
+47,109186,PhD,Unemployed,Divorced,644,Denied
+34,26540,PhD,Self-Employed,Divorced,479,Approved
+65,117768,High School,Employed,Married,802,Denied
+64,101958,PhD,Unemployed,Single,502,Denied
+40,88878,PhD,Employed,Single,491,Approved
+32,61846,PhD,Self-Employed,Widowed,304,Approved
+54,95932,Bachelors,Unemployed,Divorced,536,Approved
+38,37482,Masters,Employed,Widowed,610,Approved
+31,43411,Bachelors,Self-Employed,Divorced,848,Approved
+19,70975,Masters,Employed,Married,355,Approved
+28,80545,High School,Employed,Divorced,742,Denied
+68,98797,PhD,Employed,Widowed,536,Approved
+56,72307,Masters,Self-Employed,Widowed,496,Denied
+55,23093,Bachelors,Self-Employed,Widowed,813,Approved
+51,97258,PhD,Employed,Married,748,Denied
+55,42042,High School,Unemployed,Divorced,659,Denied
+67,72930,Masters,Unemployed,Divorced,329,Denied
+51,64413,Masters,Self-Employed,Widowed,407,Approved
+35,113623,Masters,Self-Employed,Divorced,744,Approved
+47,117883,PhD,Self-Employed,Single,737,Approved
+32,53756,Bachelors,Self-Employed,Single,756,Approved
+44,73268,Bachelors,Self-Employed,Single,794,Denied
+68,59214,Masters,Unemployed,Divorced,546,Approved
+51,101871,High School,Self-Employed,Married,842,Denied
+69,48602,High School,Employed,Married,738,Denied
+55,73331,Bachelors,Employed,Married,577,Approved
+50,68901,High School,Unemployed,Married,410,Approved
+41,119986,Bachelors,Employed,Single,684,Approved
+32,83416,Masters,Unemployed,Single,490,Denied
+47,52196,Bachelors,Unemployed,Widowed,789,Approved
+59,25626,Bachelors,Employed,Divorced,725,Denied
+68,27424,Masters,Self-Employed,Divorced,704,Approved
+34,32857,High School,Employed,Married,634,Denied
+22,39982,Bachelors,Employed,Single,508,Approved
+46,96961,Bachelors,Unemployed,Married,321,Approved
+21,21980,Masters,Employed,Widowed,507,Denied
+27,68290,High School,Unemployed,Divorced,307,Approved
+34,46431,Bachelors,Self-Employed,Divorced,828,Approved
+27,104976,Masters,Self-Employed,Married,465,Approved
+34,102711,Bachelors,Self-Employed,Widowed,795,Approved
+37,46385,PhD,Employed,Divorced,728,Approved
+41,58158,Masters,Unemployed,Widowed,462,Approved
+22,43019,High School,Self-Employed,Widowed,665,Approved
+51,38639,High School,Unemployed,Married,825,Denied
+23,105530,High School,Unemployed,Single,538,Denied
+19,119911,High School,Self-Employed,Married,371,Approved
+30,41563,Bachelors,Self-Employed,Single,744,Approved
+60,59341,Bachelors,Unemployed,Widowed,808,Approved
+60,25776,High School,Self-Employed,Single,568,Denied
+65,56444,High School,Unemployed,Widowed,714,Denied
+28,88916,High School,Unemployed,Divorced,544,Approved
+68,28711,Bachelors,Self-Employed,Divorced,359,Denied
+64,94318,High School,Employed,Divorced,305,Approved
+40,102970,High School,Self-Employed,Married,706,Approved
+33,105553,PhD,Employed,Married,516,Approved
+48,50707,PhD,Unemployed,Widowed,325,Approved
+28,59110,High School,Unemployed,Divorced,304,Denied
+33,81788,Masters,Employed,Married,831,Denied
+25,102879,High School,Unemployed,Divorced,689,Approved
+21,58827,PhD,Employed,Married,747,Denied
+57,25655,Masters,Employed,Single,445,Denied
+21,64859,Masters,Unemployed,Single,687,Approved
+42,73625,High School,Employed,Divorced,548,Denied
+20,72098,PhD,Self-Employed,Widowed,825,Approved
+49,35251,PhD,Self-Employed,Married,761,Approved
+20,20526,Masters,Unemployed,Married,312,Approved
+44,88760,High School,Unemployed,Single,683,Approved
+46,67837,Bachelors,Employed,Single,698,Denied
+49,31536,Bachelors,Employed,Widowed,318,Approved
+67,48541,PhD,Employed,Widowed,790,Denied
+68,99083,Bachelors,Employed,Widowed,718,Approved
+36,71027,PhD,Self-Employed,Divorced,636,Approved
+38,54531,PhD,Self-Employed,Single,718,Denied
+22,28712,PhD,Unemployed,Divorced,421,Approved
+35,85455,Bachelors,Employed,Single,731,Denied
+45,94744,PhD,Employed,Single,343,Denied
+59,25109,Masters,Unemployed,Married,616,Approved
+39,69268,High School,Employed,Single,680,Approved
+38,74615,High School,Employed,Single,444,Approved
+23,102503,PhD,Employed,Divorced,626,Approved
+18,49759,High School,Employed,Single,662,Approved
+22,105708,Bachelors,Employed,Divorced,349,Approved
+58,80112,Bachelors,Unemployed,Widowed,364,Denied
+29,46589,High School,Employed,Single,654,Denied
+43,50015,Bachelors,Unemployed,Single,463,Approved
+63,49009,High School,Employed,Divorced,440,Denied
+51,103309,High School,Self-Employed,Widowed,427,Denied
+66,82046,High School,Self-Employed,Married,697,Approved
+31,46143,PhD,Self-Employed,Widowed,762,Approved
+43,26154,High School,Self-Employed,Divorced,486,Denied
+62,41804,PhD,Unemployed,Widowed,489,Approved
+44,61688,High School,Unemployed,Divorced,687,Denied
+26,84288,High School,Employed,Divorced,728,Approved
+43,71195,High School,Self-Employed,Married,583,Denied
+64,40581,Bachelors,Unemployed,Single,536,Denied
+39,72648,PhD,Employed,Divorced,493,Denied
+64,50087,PhD,Employed,Divorced,586,Denied
+47,69930,High School,Unemployed,Married,435,Approved
+60,52981,High School,Self-Employed,Divorced,470,Approved
+65,89298,Bachelors,Employed,Single,458,Denied
+34,66167,Bachelors,Self-Employed,Married,500,Denied
+43,95304,Bachelors,Self-Employed,Single,786,Approved
+53,63408,PhD,Self-Employed,Single,803,Approved
+18,59499,PhD,Employed,Married,670,Denied
+25,72269,PhD,Self-Employed,Divorced,402,Denied
+66,58559,High School,Employed,Single,424,Denied
+52,94319,PhD,Self-Employed,Single,612,Denied
+69,115317,Masters,Employed,Single,757,Denied
+32,116347,Masters,Self-Employed,Single,529,Approved
+64,68787,Bachelors,Unemployed,Married,496,Denied
+39,55488,PhD,Self-Employed,Married,722,Approved
+31,94441,Masters,Self-Employed,Widowed,470,Approved
+43,94663,Bachelors,Employed,Widowed,681,Approved
+45,42431,PhD,Employed,Single,472,Denied
+40,81681,High School,Self-Employed,Divorced,752,Approved
+31,83483,Masters,Unemployed,Single,649,Approved
+41,69153,High School,Unemployed,Divorced,793,Approved
+19,26368,PhD,Employed,Single,303,Approved
+62,47424,Masters,Unemployed,Widowed,392,Denied
+43,65004,PhD,Self-Employed,Widowed,305,Denied
+31,103869,High School,Employed,Divorced,587,Approved
+68,108652,Masters,Self-Employed,Single,445,Approved
+24,76985,High School,Employed,Divorced,723,Denied
+20,70069,PhD,Employed,Widowed,756,Denied
+64,72326,PhD,Employed,Single,501,Denied
+40,101061,High School,Employed,Single,511,Approved
+63,43398,Masters,Unemployed,Divorced,305,Denied
+60,118393,High School,Self-Employed,Married,675,Approved
+64,70861,PhD,Self-Employed,Divorced,746,Approved
+62,95897,High School,Self-Employed,Widowed,405,Denied
+35,101905,PhD,Employed,Widowed,700,Approved
+55,88577,High School,Unemployed,Widowed,395,Denied
